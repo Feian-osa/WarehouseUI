@@ -72,7 +72,6 @@
             // 
             // lblBadge
             // 
-            lblBadge.AutoSize = true;
             lblBadge.BackColor = Color.FromArgb(61, 27, 27);
             lblBadge.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblBadge.ForeColor = Color.FromArgb(255, 107, 107);

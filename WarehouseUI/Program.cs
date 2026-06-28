@@ -11,7 +11,7 @@ namespace WarehouseUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new WarehouseUI.Forms.frmMain());
+            Application.Run(new WarehouseUI.Forms.frmLogin());
 
         }
     }
